@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: #ebbee4; */
+  /* overflow-x: hidden; */
+}

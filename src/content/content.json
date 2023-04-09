@@ -1,0 +1,23 @@
+[
+  {
+    "header": "__ Creative Agency",
+    "title": "We Deliver The Best Product for You",
+    "description": "Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints, engineering drawings, business processes etc.",
+    "button_name": "Get Started",
+    "image_position": "right"
+  },
+  {
+    "header": "Design Things",
+    "title": "We Love To Design Your Creative Ideas",
+    "description": "A creative concept is an overarching “Big Idea” that captures audience interest, influences their emotional response and inspires them to take action.It is a unifying theme that can be used across all campaign messages",
+    "button_name": "Learn more",
+    "image_position": "left"
+  },
+  {
+    "header": "Our teamwork",
+    "title": "We Believe Success Lies On Teamwork",
+    "description": "Good teamwork means a synergistic way of working with each person committed and working towards a shared goal. ... It is therefore a necessity that leaders facilitate and build the teamwork skills of their people if they are",
+    "button_name": "Learn more",
+    "image_position": "right"
+  }
+]
